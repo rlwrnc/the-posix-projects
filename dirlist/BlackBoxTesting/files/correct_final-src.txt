@@ -1,0 +1,10 @@
+1:1:replace/files/final-src
+2:1:replace/files/final-src/README.txt
+2:2:replace/files/final-src/chap3
+2:3:replace/files/final-src/chap4
+3:1:replace/files/final-src/chap3/Simulator
+3:2:replace/files/final-src/chap3/win32-pipe-parent.c
+3:3:replace/files/final-src/chap4/Driver.java
+3:4:replace/files/final-src/chap4/thrd-posix.c
+3:5:replace/files/final-src/chap4/thrd-win32.c
+4:1:replace/files/final-src/chap3/Simulator/dup.c
